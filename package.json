@@ -1,0 +1,12 @@
+{
+  "name": "aws-inventory-mapper",
+  "version": "1.0.0",
+  "description": "Takes a list created by aws cli 'resourcegroupstaggingapi' command",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aviv Ben-Yosef",
+  "license": "ISC"
+}
